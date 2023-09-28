@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "title": "Support Education",
+        "image": "https://i.ibb.co/cDfNqyD/education.jpg",
+        "description": "Education is the foundation of a brighter future. Your support can help children in underserved communities access quality education and unlock their full potential. With your generous contribution, we can provide essential learning resources, books, and educational materials to schools that lack the necessary funding. Together, we can bridge the education gap and ensure that every child has the opportunity to learn, grow, and succeed.\n\nJoin us in our mission to make education accessible to all. Your donation of $25 will make a significant impact on a child's life, opening doors to knowledge, creativity, and a better future.",
+        "category": "Education",
+        "category_color": "#BAE6FD",  
+        "text_color": "#2563EB",      
+        "btn_color": "#7DD3FC",        
+        "price": 25
+    },
+    {
+        "id": 2,
+        "title": "Feed the Hungry",
+        "image": "https://i.ibb.co/8XcZ3Fx/food.jpg",
+        "description": "Hunger is a pressing issue that affects millions of people worldwide. Your support can make a difference in the lives of those facing food insecurity. By contributing to our food relief efforts, you can help provide nutritious meals to individuals and families in need.\n\nOur goal is to combat hunger and ensure that no one goes to bed hungry. Your donation of $20 will help us purchase and distribute essential food items to those who are struggling to put food on the table. Together, we can make sure that everyone has access to the sustenance they require for a healthy and fulfilling life.",
+        "category": "Food",
+        "category_color": "#FCA5A5",  
+        "text_color": "#EF4444",      
+        "btn_color": "#F87171",        
+        "price": 20
+    },
+    {
+        "id": 3,
+        "title": "Clothing Drive",
+        "image": "https://i.ibb.co/z4bzBvG/clothing.jpg",
+        "description": "Winter can be harsh, especially for those who lack warm clothing. Our clothing drive aims to provide comfort and warmth to the less fortunate during the cold months. Your contribution can make a significant impact on someone's life.\n\nBy donating gently used or new clothing items, you can help individuals and families stay warm and cozy. From coats and scarves to blankets and mittens, every item you donate will provide comfort and relief. Your generosity, combined with the $15 donation you make, will ensure that no one has to endure the cold without proper clothing.",
+        "category": "Clothing",
+        "category_color": "#D9F99D",  
+        "text_color": "#65A30D",      
+        "btn_color": "#BEF264",        
+        "price": 15
+    },
+    {
+        "id": 4,
+        "title": "Support Health Initiatives",
+        "image": "https://i.ibb.co/PGJNv12/health.jpg",
+        "description": "Good health is a fundamental human right, yet many communities lack access to essential healthcare services. Your support can make a significant difference in the lives of those in need. By contributing to our health initiatives, you can help fund vital healthcare projects that provide medical care, vaccinations, and health education to underserved populations.\n\nOur goal is to promote well-being and ensure that everyone has the opportunity to lead a healthy life. Your generous donation of $30 will help us save lives, prevent diseases, and improve the overall health of communities in need. Join us in our mission to make quality healthcare accessible to all.",
+        "category": "Health",
+        "category_color": "#FEF3C7",  
+        "text_color": "#D97706",      
+        "btn_color": "#FDE68A",        
+        "price": 30
+    },
+    {
+        "id": 5,
+        "title": "Educate for a Brighter Future",
+        "image": "https://i.ibb.co/cDfNqyD/education.jpg",
+        "description": "Education is the key to a brighter future, and your support can make a profound impact on the lives of children and young adults. By contributing to our educational programs, you empower the next generation with the knowledge and skills they need to succeed.\n\nYour generous donation of $40 will help us provide scholarships, educational resources, and mentorship opportunities to deserving students. Together, we can break down barriers to education and create a world where every child has the chance to fulfill their potential. Join us in our mission to educate for a brighter future.",
+        "category": "Education",
+        "category_color": "#BAE6FD",  
+        "text_color": "#2563EB",      
+        "btn_color": "#7DD3FC",        
+        "price": 40
+    },
+    {
+        "id": 6,
+        "title": "Provide Meals",
+        "image": "https://i.ibb.co/8XcZ3Fx/food.jpg",
+        "description": "Hunger is an urgent problem, and your contribution can help combat it in your community. By supporting our meal provision efforts, you can ensure that individuals and families have access to nourishing meals when they need them most.\n\nYour $10 donation will go towards purchasing and distributing essential food items to those facing food insecurity. Together, we can make a significant difference in the lives of those who are struggling to put food on their tables. Join us in the fight against hunger and be part of the solution.",
+        "category": "Food",
+        "category_color": "#FCA5A5",  
+        "text_color": "#EF4444",      
+        "btn_color": "#F87171",        
+        "price": 10
+    },
+    {
+        "id": 7,
+        "title": "Warm Clothing Drive",
+        "image": "https://i.ibb.co/z4bzBvG/clothing.jpg",
+        "description": "As winter approaches, many individuals in our community lack warm clothing to stay comfortable in the cold. Your support for our Warm Clothing Drive can make a significant impact on their lives.\n\nBy donating gently used or new warm clothing items, you can help keep people warm and cozy during the winter season. From jackets and sweaters to hats and gloves, every contribution matters. Your generosity, combined with the $20 donation you make, will ensure that no one has to endure the cold without proper clothing.",
+        "category": "Clothing",
+        "category_color": "#D9F99D",  
+        "text_color": "#65A30D",      
+        "btn_color": "#BEF264",        
+        "price": 20
+    },
+    {
+        "id": 8,
+        "title": "Support Maternal Health",
+        "image": "https://i.ibb.co/PGJNv12/health.jpg",
+        "description": "Maternal health is a critical concern, and your support can make a significant difference in the lives of expectant mothers and their children. By contributing to our maternal health initiatives, you can help provide prenatal care, safe deliveries, and postnatal support to underserved communities.\n\nYour generous donation of $25 will enable us to expand our efforts and ensure that every mother receives the care she deserves. Together, we can reduce maternal mortality rates and promote the well-being of mothers and their newborns. Join us in our mission to support maternal health.",
+        "category": "Health",
+        "category_color": "#FEF3C7",  
+        "text_color": "#D97706",      
+        "btn_color": "#FDE68A",        
+        "price": 25
+    },
+    {
+        "id": 9,
+        "title": "Empower Education",
+        "image": "https://i.ibb.co/cDfNqyD/education.jpg",
+        "description": "Empowering education is a transformative endeavor, and your support can change lives. By contributing to our educational programs, you can help empower the next generation with knowledge, skills, and opportunities for success.\n\nYour generous donation of $35 will go towards providing scholarships, educational resources, and mentorship programs to deserving students. Together, we can break down barriers to education and create a world where every child has the chance to fulfill their potential. Join us in our mission to empower education.",
+        "category": "Education",
+        "category_color": "#BAE6FD",  
+        "text_color": "#2563EB",       
+        "btn_color": "#7DD3FC",        
+        "price": 35
+    },
+    {
+        "id": 10,
+        "title": "Fight Hunger",
+        "image": "https://i.ibb.co/8XcZ3Fx/food.jpg",
+        "description": "Hunger is a pervasive issue that affects communities worldwide, including ours. Your support can make a significant impact on those facing food insecurity in our region. By contributing to our efforts, you can help provide essential food items to individuals and families in need.\n\nYour $15 donation will enable us to purchase nutritious food and distribute it to those struggling to put food on their tables. Together, we can make sure that no one in our community goes to bed hungry. Join us in the fight against hunger and be part of the solution.",
+        "category": "Food",
+        "category_color": "#FCA5A5",  
+        "text_color": "#EF4444",      
+        "btn_color": "#F87171",        
+        "price": 15
+    },
+    {
+        "id": 11,
+        "title": "Warm Hearts, Warm Bodies",
+        "image": "https://i.ibb.co/z4bzBvG/clothing.jpg",
+        "description": "The winter season can be harsh, especially for those without warm clothing. Our Warm Hearts, Warm Bodies campaign aims to provide comfort and warmth to those in need during the cold months. Your contribution can make a significant impact on someone's life.\n\nBy donating gently used or new warm clothing items, you can help individuals and families stay warm and cozy during the winter season. From coats and scarves to blankets and mittens, every item you donate will provide comfort and relief. Your generosity, combined with the $20 donation you make, will ensure that no one has to endure the cold without proper clothing.",
+        "category": "Clothing",
+        "category_color": "#D9F99D",  
+        "text_color": "#65A30D",      
+        "btn_color": "#BEF264",        
+        "price": 20
+    },
+    {
+        "id": 12,
+        "title": "Healthcare for All",
+        "image": "https://i.ibb.co/PGJNv12/health.jpg",
+        "description": "Access to healthcare is a fundamental human right, yet many individuals and communities lack this basic necessity. Your support can help bridge this gap and make quality healthcare accessible to all.\n\nBy contributing to our Healthcare for All initiative, you enable us to fund healthcare projects, medical clinics, and health education programs in underserved areas. Your generous donation of $40 will help us save lives, prevent diseases, and improve the overall health of those in need. Join us in our mission to ensure that everyone has the opportunity to lead a healthy and fulfilling life.",
+        "category": "Health",
+        "category_color": "#FEF3C7",  
+        "text_color": "#D97706",      
+        "btn_color": "#FDE68A",        
+        "price": 40
+    }
+]
